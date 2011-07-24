@@ -80,14 +80,14 @@ body {
 }
 
 header hgroup h1 {
-  font-size: 18px;
-  margin-bottom: 3px;
-  line-height: 1.5;
+	font-size: 24px;
+	margin-bottom: 3px;
+	line-height: 1.5;
 }
 
 header hgroup h2 {
-  font-size: 13px;
-  line-height: 1.5;
+	font-size: 16px;
+	line-height: 1.5;
 }
 
 header {
@@ -117,21 +117,21 @@ nav ul li {
 }
 
 nav li a {
-  display: block;
-  width: 23%;
-  float: left;
-  text-align: center;
-  text-decoration: none;
-  padding-top: 7px;
-  padding-bottom: 7px;
-  margin-right: 1%;
-  margin-left: 1%;
-  font-size: 13px;
-  border-radius: 4px;
-  -webkit-border-radius: 4px;
-  -moz-border-radius: 4px;
-  -o-border-radius: 4px;
-  color: #0F3;
+	display: block;
+	width: 23%;
+	float: left;
+	text-align: center;
+	text-decoration: none;
+	padding-top: 7px;
+	padding-bottom: 7px;
+	margin-right: 1%;
+	margin-left: 1%;
+	font-size: 16px;
+	border-radius: 4px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-o-border-radius: 4px;
+	color: #0F3;
 }
 
 nav li a:link,
